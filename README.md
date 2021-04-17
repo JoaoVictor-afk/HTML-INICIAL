@@ -28,8 +28,7 @@
     <img src="https://scontent.fria2-1.fna.fbcdn.net/v/t1.6435-9/174548563_1166184900476737_2769328106945704553_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFw7YZ7zRud5dcfZwipgT95IZPvYfc_eswhk-9h9z96zIzac8KrE76-vf0OSeVjB6MEZlPGSAPhC9uSE_oPzU8T&_nc_ohc=LBxQfZA3FI4AX-TYCS1&_nc_ht=scontent.fria2-1.fna&oh=0e85c4f417d4b28827f2c80b2d729f74&oe=60A229CD" alt="Arhur"
     width="200">
     
-    <img src="Screenshot_8.png" alt="noel![Screenshot_8](https://user-images.githubusercontent.com/82658732/115125112-75807700-9f9c-11eb-986d-cd72821e1236.png)
-" width="200">
+    <img src="Screenshot_8.png" alt="noel![Screenshot_8](https://user-images.githubusercontent.com/82658732/115125112-75807700-9f9c-11eb-986d-cd72821e1236.png)" width="200">
     
     </a>
         
