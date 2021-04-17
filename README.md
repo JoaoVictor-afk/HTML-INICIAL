@@ -6,7 +6,7 @@
         <meta charset="utf-8">
     </head>
 
-    <body>
+   <body>
 
         <h1>Gay</h1>
         <h2>Poema</h2>
@@ -17,6 +17,6 @@
         </p>
         <!--Barra de navegação
     comentario-->
-    </body>
+   </body>
 
 </html>
