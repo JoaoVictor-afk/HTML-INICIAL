@@ -15,7 +15,8 @@
         <P>Vivendo algo que nunca vivi </P> 
          Bom que não quero ser poeta e sim programador
         </p>
-        
+        <!--Barra de navegação
+    comentario-->
     </body>
 
 </html>
